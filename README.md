@@ -24,6 +24,7 @@
 
 ## Description:
 Ini adalah tampilan awal aplikasi ketika baru pertama dibuka:
+<br>
 <img src="./docs-pictures/app.jpg" width="150" title="Navigation Codelab">
 
 Terdapat App Drawer pada bagian kiri atas aplikasi dan Bottom Navigation Bar pada bagian bawah aplikasi.
@@ -31,4 +32,5 @@ Terdapat App Drawer pada bagian kiri atas aplikasi dan Bottom Navigation Bar pad
 <br>
 
 Ini adalah tampilan App Drawer jika ditekan:
+<br>
 <img src="./docs-pictures/app drawer.jpg" width="150" title="App Drawer">

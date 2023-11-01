@@ -34,3 +34,5 @@ Terdapat App Drawer pada bagian kiri atas aplikasi dan Bottom Navigation Bar pad
 Ini adalah tampilan App Drawer jika ditekan:
 <br>
 <img src="./docs-pictures/app drawer.jpg" width="150" title="App Drawer">
+
+Tekan Navigation Bar untuk berpindah ke halaman lain.

@@ -84,20 +84,6 @@ class MyHomePageState extends State<MyHomePage> {
   }
 }
 
-void onBottomNavItemTapped(BuildContext context, int index) {
-  switch (index) {
-    case 0:
-      Navigator.push(context, MaterialPageRoute(builder: (context) => const FirstScreen()));
-      break;
-    case 1:
-      Navigator.push(context, MaterialPageRoute(builder: (context) => const SecondScreen()));
-      break;
-    case 2:
-      Navigator.push(context, MaterialPageRoute(builder: (context) => const ThirdScreen()));
-      break;
-  }
-}
-
 class MyDrawer extends StatelessWidget {
   const MyDrawer({super.key});
 
